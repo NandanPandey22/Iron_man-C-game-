@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(443): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(476): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(550): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(553): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(583): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(587): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(620): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(760): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(190): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files (x86)\sfml\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(203): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files (x86)\sfml\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(204): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files (x86)\sfml\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\nandan\documents\visual studio 2017\projects\hellosfml1\hellosfml1\source.cpp(369): warning C4996: 'sf::RenderWindow::capture': was declared deprecated
+  c:\program files (x86)\sfml\include\sfml\graphics\renderwindow.hpp(140): note: see declaration of 'sf::RenderWindow::capture'
+  HelloSFML1.vcxproj -> C:\Users\Nandan\documents\visual studio 2017\Projects\HelloSFML1\Debug\HelloSFML1.exe
+  HelloSFML1.vcxproj -> C:\Users\Nandan\documents\visual studio 2017\Projects\HelloSFML1\Debug\HelloSFML1.pdb (Partial PDB)
